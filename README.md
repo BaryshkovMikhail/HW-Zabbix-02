@@ -42,6 +42,14 @@
 4. Приложите в файл README.md текст использованных команд в GitHub
 
 ---
+
+### Решение 2
+
+<img src = "img/img3.png" width = 100%>
+<img src = "img/img4.png" width = 100%>
+
+---
+
 ## Задание 3 со звёздочкой*
 Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.
 
