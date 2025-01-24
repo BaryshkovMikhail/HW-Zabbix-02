@@ -16,6 +16,14 @@
 
 ---
 
+### Решение 1
+
+<img src = "img/img1.png" width = 100%>
+<img src = "img/img2.png" width = 100%>
+
+---
+
+
 ### Задание 2 
 
 Установите Zabbix Agent на два хоста.
